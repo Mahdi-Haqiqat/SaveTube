@@ -1,0 +1,6 @@
+{
+  "name": "SaveTube",
+  "description": "Securely parse, download and save Instagram photos, videos, and multi-media posts directly to local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
